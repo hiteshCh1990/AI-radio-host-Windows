@@ -1,0 +1,22 @@
+Anjli: Hello dosto, welcome to Radio AI! Main hu Anjli.
+Hitesh: Aur main hu Hitesh. Aaj Radio AI par hum baat karenge ek kaafi interesting topic ke baare mein.
+Anjli: Ha yaar, toh bina time waste kiye chalo shuru karte hain aaj ka discussion.
+
+Anjli: Toh dosto, aaj hum baat kar rahe hain Python Programming ke baare mein.
+Hitesh: Haan bilkul! Python ab sabse popular programming language hai.
+Anjli: [Laughs] Sach mein! Lekin Python kya hai exactly? Kuch log samajhte hain, kuch nahi.
+Hitesh: Achha, toh simple terms mein, Python ek programming language hai jo code likhne ke liye use hoti hai.
+Anjli: Exactly! Aur yeh kaafi easy hai seekhne mein - beginners ke liye perfect.
+Hitesh: Aur yeh kaafi powerful bhi hai - Google, Facebook, sab use karte hain.
+Anjli: Lekin ek sawaal - Python se kya kya ban sakta hai?
+Hitesh: Kuch bhi! Websites, apps, data analysis, machine learning - sab kuch!
+Anjli: Bilkul sahi! Python versatile hai - ek language se sab kuch possible hai.
+Hitesh: Toh dosto, agar aap coding seekhna chahte ho, Python se start karo.
+Anjli: Ha yaar, Python future hai, aur abhi perfect time hai start karne ka.
+
+Anjli: Toh dosto, umeed hai aaj ka discussion aapko pasand aaya hoga.
+Hitesh: Agar pasand aaya ho toh Radio AI ke saath jude rahiye, aur aise hi interesting topics ke liye.
+Anjli: Main hu Anjli,
+Hitesh: Aur main hu Hitesh,
+Anjli: Milte hain next episode mein, tab tak ke liye bye bye!
+
